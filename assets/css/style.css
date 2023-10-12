@@ -1363,3 +1363,11 @@ section {
     padding: 3px 0;
   }
 }
+
+.row {
+  justify-content: center;
+}
+
+.col-lg-3 {
+  width: 30%;
+}
